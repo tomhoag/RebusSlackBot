@@ -12,6 +12,8 @@ Any other `/rebus <foo>` command returns an "I don't understand" message
 
 ## Setup
 
+This setup assumes that you are familiar with creating a Slack bot and setting up AWS lambda functions and an AWS SQS.
+
 ### Slack App
 
 Create a slack app @ api.slack.com.
